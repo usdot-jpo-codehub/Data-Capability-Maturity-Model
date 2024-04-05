@@ -1,0 +1,10 @@
+C:\Users\haledk1\source\repos\Data CMM\Data CMM\bin\Debug\Data CMM.exe.config
+C:\Users\haledk1\source\repos\Data CMM\Data CMM\bin\Debug\Data CMM.exe
+C:\Users\haledk1\source\repos\Data CMM\Data CMM\bin\Debug\Data CMM.pdb
+C:\Users\haledk1\source\repos\Data CMM\Data CMM\obj\Debug\Data_CMM.MainForm.resources
+C:\Users\haledk1\source\repos\Data CMM\Data CMM\obj\Debug\Data_CMM.Properties.Resources.resources
+C:\Users\haledk1\source\repos\Data CMM\Data CMM\obj\Debug\Data CMM.csproj.GenerateResource.cache
+C:\Users\haledk1\source\repos\Data CMM\Data CMM\obj\Debug\Data CMM.csproj.CoreCompileInputs.cache
+C:\Users\haledk1\source\repos\Data CMM\Data CMM\obj\Debug\Data CMM.exe
+C:\Users\haledk1\source\repos\Data CMM\Data CMM\obj\Debug\Data CMM.pdb
+C:\Users\haledk1\source\repos\Data CMM\Data CMM\obj\Debug\Data_CMM.AboutBox1.resources

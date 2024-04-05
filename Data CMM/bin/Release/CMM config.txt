@@ -1,0 +1,558 @@
+Config File Version Number
+102
+Start Usecases
+Regional System Management
+Offline Analysis Support
+University TRC
+USDOT Single-Source Data
+USDOT Research Program
+End Usecases
+Start Barriers
+Internal policies
+External policies
+Time constraints
+Budget constraints
+Technical challenges
+Workforce constraints
+Leadership doesn't support/prioritize
+Bureaucratic/administrative challenges
+Communication/collaboration challenges
+The agency would not benefit from advancing
+End Barriers
+Start Dimension
+Envision
+Start Subdimension
+Culture
+All management levels having an integrated understanding of objectives and measures of success for data management.
+A consistent annual budget for data management.
+A process to solicit and recognize data analytics opportunities that is frequently reviewed for internal consistency, external impact, efficiency, and quality.
+Reinforcement of the value of advanced analytics from leadership in all activities and ongoing business operations, plus consistent identification of ways to increase adoption in ordinary business tasks.
+Adoption of advanced analytics throughout the organization measured regularly; action plans are modified and enhanced as needed.
+Guidebooks, toolkits, and other supporting documents that demonstrate the integration of advanced analytics policies and procedures into ongoing operations.
+A strong data strategy.
+Strong leadership buy-in.
+Strong definition of innovation metrics.
+Strong innovation awards/recognition.
+Strong innovation environment and innovation working groups.
+Strong innovation benchmarking.
+Data management business cases that require executive sponsorship.
+An established review process that evaluates and improves data governance.
+An established organization-wide data governance structure and rollout plan has executive sponsorship.
+Executive level organization-wide data governance that is operational for the organization’s high-priority subject areas.
+Data governance that includes representatives from all business units, which are suppliers or consumers of high-priority data subject areas.
+An established evaluation process for refining data governance to align with changing business priorities and to expand as needed to encompass new functions and domains.
+Data governance activities and results continuously analyzed against objectives and reported to executive management.
+Continuous application of metrics, statistical techniques, and other quantitative techniques to determine if data governance efforts are changing organizational behaviors appropriately.
+Data quality program milestones and metrics that are regularly reviewed by executives, and continuous improvements are implemented.
+Continual review and refinement of data lifecycle metrics by senior management.
+A strong action plan to improve data management capabilities.
+A strong data leadership council.
+Strong monitoring of data governance metrics.
+Strong monitoring of security policies.
+Strong contributions from data stewards who play an active role in managing data.
+A completely data-driven approach to making major decisions.
+A strong mandate from the highest levels of the organization to develop a data-driven culture.
+Start Subdimension
+Workforce
+Data administrators who efficiently support all data architecture maintenance needs.
+Full support from skilled resources with advanced system knowledge of the agency’s integrated data systems.
+Extensive in-house knowledge of applicable data frameworks.
+Seamless access to outside expertise, plus inhouse experts qualified to independently verify third-party recommendations.
+Robust data management workforce development that includes training material, job announcements, interview questions, and desired capability.
+Comprehensive, cutting-edge in-house data management expertise.
+Documented roles and responsibilities of different units and staff, including the collaborative processes.
+Robust data cleaning and data fusion capabilities.
+Robust analysis capabilities that include data cleaning, data fusion, data mining, business intelligence, AI, and ML.
+A strong understanding of sensitivity analysis, advanced visualizations, and statistical distributions.
+A formal job analysis or competency model that was developed for the enterprise itself, is reviewed regularly and refined as the nature of the work changes, and continuously informs the organization’s overarching talent management strategy.
+A robust process to create specific position descriptions, including the documentation of the unique requirements for the role, but also linked to and aligned with enterprise wide qualifications for advanced analytics positions as determined by a job analysis.
+Consistent engagement of advanced analytics candidates with the enterprise through a comprehensive employer brand message.
+A strategy for attracting talent that is regularly reviewed to identify enhancements.
+A standardized and strategic approach for profiling advanced analytics talent and prioritizing sources that is centralized for the enterprise.
+Hiring of advanced analytics candidates through an enterprise wide process to enable efficiencies and resource pooling.
+Governed processes to identify workforce requirements for advanced analytics that continuously inform the overarching enterprise talent management strategy.
+A dedicated team committed to identifying, tracking and managing advanced analytics talent across the enterprise in support of broad workforce development, risk management (succession planning), and the talent management strategy.
+A workforce that is structured and designed to operationalize analytics most effectively (use, develop, share, grow) throughout the enterprise and is regularly re evaluated for enhancement.
+An advanced analytics talent management strategy that is the guiding approach for all human resources programs focused on advanced analytics staff and is reviewed annually to improve as part of advanced analytics workforce development.
+Career paths for the advanced analytics workforce that are regularly reviewed and enhanced based on emerging learning opportunities.
+Objective behavioral and competency based performance measures and metrics for advanced analytics positions that are reviewed and refined as the nature of the work changes.
+Engagement and motivation drivers that are used to inform retention programs, enterprise wide policies, and the overarching enterprise advanced analytics talent management strategy.
+Advanced analytics learning opportunities that are part of a formal knowledge management program supported by peer development and regularly reviewed for enhancement.
+Well-defined roles and responsibilities to support the governance of data management and the interaction between governance and the data management function.
+Agreements in place that provide explicit expectation for the use of shared staff resources with responsibilities for data management.
+Governance roles, responsibilities, and accountabilities established for data subject area by priority, as stated in the business or data strategy.
+Data subject area representatives that participate in data governance and associated processes.
+Classroom, mentoring, e-learning, or on-the-job training in data governance processes required for new governance members and other stakeholders.
+Defined roles and responsibilities for governance, implementation, and management of data quality practices.
+A governance group that establishes, maintains, and ensures adherence to data cleansing rules.
+Stakeholder roles and responsibilities for architectural standards that include compliance accountability, ownership, and training.
+Strong data policies and documented processes to help staff perform their roles that staff can easily find in a centralized location.
+Use of a strong process to determine training needs for each role in the organization.
+Strongly established data roles and responsibilities where the data activities performed are captured and used in performance appraisals/rewards/promotions.
+Strong mandatory training to support all data roles with data-related duties outlined in position descriptions.
+A strong majority of job descriptions that include data or analytics skills at every level of the organization.
+Strong enablement or training programs to help employees at every level develop data skills, including a formal required data literacy program.
+Strong documentation of data science expertise that would prevent personnel loss from creating any perceivable gap.
+Start Subdimension
+Collaboration
+Frequent reviews of, learning from, and use of, relevant analyses from multiple outside sources.
+A feedback mechanism with stakeholders and regulators to affirm existing retention and archiving policies.
+Documented roles, responsibilities, and collaborative processes to support data management.
+Data analytics solution implementation review as part of the solution evaluation and engages stakeholders throughout the process.
+A dedicated advanced analytics communications strategy aligned to broader organizational communications, tailored to specific stakeholder groups, and reviewed regularly for enhancements.
+Targeted and specific marketing to each customer segment that is used to drive engagement with specific workforce groups to optimize advanced analytics marketing for the enterprise.
+A strong data community of interest that provides a vision and mission for improving the organization’s data capability through a series of community based programs and events.
+A strong communications plan for data management that is defined, documented, approved by stakeholders, and scheduled.
+Planned and conducted data management communications with external stakeholders according to the communications strategy.
+External data management communications made with the purpose of influencing public policies and industry best practices that impact data.
+A strong and active interaction and engagement model that ensures stakeholders engagement.
+An explicitly recognized data management business function that is leveraged across the organization.
+Statistical results and stakeholder feedback that guide continuous improvement of TCO for data management.
+Stakeholders that participate in and support data management program funding.
+Systematic collection of stakeholder reports of data quality issues. Their expectations for improving data quality are included in the data quality strategy, and are measured and monitored.
+Changes to data stores, data interfaces, and data management process assets planned and approved by stakeholders at the organizational level.
+Management of changes to shared data sets (or target data sets for a specific business purpose) by data governance structures with relevant stakeholder engagement.
+A target architecture that is collaboratively developed and jointly approved by business units, IT, and data governance.
+Contributions to data architecture standards initiatives within the industry.
+Publication and/or sharing of data management experiences, case studies, best practices, and lessons learned with industry, peers, and stakeholders.
+A strong community of practice with a strong champion who is an expert in the data field.
+Start Dimension
+Plan
+Start Subdimension
+Framework and model
+A data model designed to fully implement continuous development practices, including ad hoc data augmentation.
+New processes designed from the ground up to support emerging technology data.
+Visual representation of how datasets interrelate in a regularly updated, highly legible, and readily accessible format.
+All appropriate metadata additions that enhance usability fully accounted for by the data model.
+A data model that fully accounts for masking of sensitive data in all areas where it may be useful.
+A formally implemented data management framework and model.
+A detailed data management framework that reflects the latest national findings.
+A data management strategy that is fully maintained.
+A data management strategy implementation that is continuously reviewed to identify opportunities for improvement.
+Strong principles defined and followed to guide the consistency of practices related to data management.
+A strong interaction model that ensures the involvement of data governance for projects that use shared data.
+A data management organization and specified structure that are defined and periodically reviewed to ensure that they meet the needs of the organization.
+Governance roles, responsibilities, and accountabilities established for data subject area by priority, as stated in the business or data strategy.
+Use of models to predict compliance with legal and regulatory requirements.
+Strong data models that are easy to access.
+Start Subdimension
+Cost-effectiveness and value
+Cost-effective data management.
+Data from which most stakeholders regularly derive real value.
+A centralized resource management hub that proactively manages and deploys project resources to gain efficiencies and optimize resource alignment to opportunities.
+Continuous identification and evaluation of current and potential data sources to improve advanced analytics in support of business needs.
+Strong data impact.
+Consistent use of strong metrics, statistical techniques, and/or other quantitative techniques to measure the effectiveness of the data management across all dimensions.
+A strong business case methodology for data management that aligns with business objectives and data management objectives.
+A data management business case that reflects analysis of the data management program’s total cost of ownership, and allocates cost elements to organizations, programs, and projects in accordance with the organization’s financial accounting methods.
+Managing and tracking of cost factors comprising data management TCO across the data management lifecycle.
+Strong cost and benefit metrics that guide data management priorities.
+Data management TCO employed to measure, evaluate, and fund changes to data management initiatives and infrastructure.
+Statistical and other quantitative techniques used to analyze data management cost metrics to assess data management TCO and collection methods.
+Data management program performance scorecards that include TCO metrics.
+A data management TCO model that is validated, checked for accuracy, and enhanced through regular reviews and analysis.
+Statistical results and stakeholder feedback that guide continuous improvement of TCO for data management.
+Mapping of data management costs to business areas, operational functions, and IT.
+Data management program funding that aligns with investment decision-making standards that are consistently employed across the organization.
+Program funding priorities that align with the objectives and priorities of data management.
+Defined and statistically analyzed measures that determine the effectiveness of program funding with respect to meeting organizational objectives and expected benefits.
+A defined process for defining benefits and costs for data quality initiatives that is employed to guide data quality strategy implementation.
+Adherence to established data management measurement and analysis standards.
+Use of established data management measurement and analysis tailoring guidance.
+Maintenance of an established organizational data management measurement repository in accordance with usage feedback.
+Use and maintenance of an established data quality program for the data management measurement repository.
+Monitoring of data management process performance using statistical and other quantitative techniques.
+Systematic determination and understanding of the root causes for selected issues to address deficiencies in achieving data management objectives.
+Management of measures to address data management measurement objectives.
+Analysis of data management attribute performance and maintenance of data management baseline measures.
+Validation of data management improvements by stakeholders.
+Business outcomes clearly defined prior to using data and analytics to make strategic decisions, strong ability to measure success, and a feedback loop to ensure tracking or pivoting to meet desired outcomes.
+Strong ability to demonstrate the impact of being a data-driven organization on business value across the entire organization.
+Start Subdimension
+Architecture and infrastructure
+A data system architecture that meets analysts' needs.
+Data management software that is well supported and open source.
+All of its systems in a cloud-based environment.
+The ability to easily upgrade or replace all data processes, which are all independent.
+Implementation of all relevant security software and procedures.
+Data management software that reflects agency staff’s direct experience with using a wide variety of software.
+A data repository that supports querying of data in real time, and is reviewed and revised to plan for data needs over a multi year period.
+An architectural approach for the target data architecture that is followed across the organization.
+A target architecture that is collaboratively developed and jointly approved by business units, IT, and data governance.
+Evaluation and application of both internal and selected external data standards to the development of architectural blueprints and component designs.
+Alignment of the architecture, technical requirements, and supporting infrastructure capabilities.
+An architecture that includes the target integration layer, also known as common interface design.
+Data profiling performed prior to finalizing the design of a data store component that will contain existing data.
+Statistical analysis of performance and data quality improvements used as input to the architectural design process.
+Evaluation of prediction models against architectural changes with subsequent adjustments as needed.
+Architectural standards that are followed across the organization.
+Inclusion of external requirements applicable to the organization in data architecture standards development.
+Defined and implemented metrics for monitoring and controlling adoption of, and compliance to, architectural standards.
+An audit process developed, documented, and performed for evaluating compliance to architectural standards.
+Audit result metrics and internal deviation patterns that indicate where changes to data architecture standards and enhanced guidance for standards application are needed.
+Risk-based impact analysis for proposed changes to organizational data architecture standards and guidance prior to acceptance.
+Research of innovative data technologies and methods for potential adoption, and development of appropriate new standards for those which are deployed.
+Platform implementation plans that address the scalability, resiliency, and security needed to accommodate changes in anticipated complexity as well as the volume of data and number of users.
+Platform design and capabilities that ensure that work flow and service level requirements can be met.
+Capture, storage, and use of platform performance data to verify that the platform meets business performance needs and capacity requirements.
+A platform that contributes its metadata to the organization’s metadata repository.
+Analysis of qualitative and quantitative performance metrics for the data management platform using statistical and other quantitative techniques, to support platform change decisions.
+Platform improvement objectives that are quantitatively expressed and approved by governance.
+Continuous improvement of the platform based on statistical performance data and causal analysis.
+Comparison of platform change effects with prediction models and subsequent analysis to improve the prediction models.
+Strong automation of data governance processes.
+All the technology it needs, and adoption levels are high.
+Start Dimension
+Create
+Start Subdimension
+Efficiency
+The ability to develop new data products with ease.
+The ability to enhance existing data products with ease.
+Currently available tools that support easy development of additional data products and visualizations.
+The ability to swiftly develop and use new data products.
+A well-documented process to regularly review data enrichment opportunities.
+A well-documented review process that it frequently uses to consider new data products.
+Documented data collection procedures that are frequently reviewed and updated.
+Data tables always well formed (one subject per column and one piece of information per row).
+Data collection supported by automated processes (e.g., ETL), which are continuously improved.
+Strong data capture capacity.
+Data sourcing evaluation and selection processes that are defined and employed across the organization.
+The ability to integrate all data without conversion or modification.
+All applicable data sets mapped to the same standard wherever possible such that they can be easily joined.
+Data integration processes that are reviewed and revised as needed to plan for data needs over a multi year period.
+Strong data integration capacity.
+Implemented a mechanism to facilitate transformation by mapping between business terms, attributes, and physical data element names or synonyms.
+Use of standard data cleansing results report templates at the detail and summary level.
+Selected highly shared data that are fully integrated, centrally managed, and delivered as needed to integration data stores.
+Start Subdimension
+Procurement
+Easy and rapid procurement of data management/analysis tools for for analysts.
+Service level agreements that include data quality criteria to hold data providers accountable for cleansed data.
+Provider service level agreements based on standard templates and processes that are implemented across the organization, tracked, and enforced.
+Continual review of service level agreements to assure satisfaction of business objectives and requirements.
+Periodic meetings held with data providers to review planned changes to data content, processes, formats, quality, etc.
+Partnering relationships developed with selected external providers based upon provider evaluation results and anticipated data needs.
+Start Subdimension
+Modern formats
+Data collected and stored in modern, well-known, open-source formats.
+Use of open file formats and common protocols for maximum compatibility with current and future data tools.
+Data schemas that best meet the analysts’ needs.
+Data standards that facilitate data exchange (with common definitions) and are reviewed regularly to identify opportunities for enhancement.
+Use of strong data standards and data standardization policies.
+Strong practices to ensure new datasets are born or made FAIR (findable, accessible, interoperable, reusable).
+Start Subdimension
+Value assessment
+Collected data that are highly relevant to current agency needs.
+Collected data that are highly relevant to future agency needs.
+Data analytics opportunity selection criteria that are reviewed and refined following project close out, in conjunction with identification, and are shared and replicated across the organization.
+Data analytics solution evaluation criteria that are congruent across the organization and are refined as priorities change.
+Frequent reviews of data analytics solutions to document lessons learned and identify additional applicability.
+Data collection conducted in alignment with the data management strategy in advance of business needs.
+Continuous consideration of data quality issues in alignment with the goal to ensure that data are suitable for the intended purpose.
+Data quality assurance by reviewing pre production data to ensure they are fit for purpose and right the first time.
+Strong data collection processes and procedures.
+Strong data collection metrics.
+Data requirements that are defined, validated, and integrated using the organization’s standard requirements definition framework.
+Assessment of data requirements based on business priorities.
+Documentation and linkage of the business processes that produce data to the data requirements.
+Data requirements that comply with and include compliance requirements for both physical and logical data, including security rules as well as technical requirements.
+Evaluation of requirements to ensure that they are implementable in the target environment.
+Evaluation of industry best practices pertaining to data requirements against selected criteria to determine if they should be adopted into the development lifecycle.
+Defined and managed metrics that ensure data requirements as defined satisfy business objectives; corrective actions are taken when performance is not meeting business needs.
+Continuous process improvement to ensure efficient and consistent prioritization, selection, and verification of data requirements.
+Sharing of best practices with industry and peers regarding data requirements.
+Defined measures/metrics and collected information to assess progress in data mapping efforts and adoption of authoritative data sources.
+Strong application of data governance to new data products.
+Start Subdimension
+Methods and metrics
+Robust data cleaning and data fusion capabilities.
+Strong ability to apply artificial intelligence and/or machine learning methods to enhance data cleaning and data fusion.
+Analyses that explicitly fuse and evaluate multi-source data and emerging data sources via cutting-edge automated methods.
+Strong data validation, data quality, and auditing capacity.
+Implemented a mechanism to facilitate transformation by mapping between business terms, attributes, and physical data element names or synonyms.
+Data quality projects, such as data profiling, data assessments, data cleansing, and risk assessments that align with the business needs identified in the data quality strategy and the costbenefit analysis.
+Data profiling methodologies, processes, practices, tools, and results templates that have been defined and standardized.
+Performance of all techniques identified to meet the data profiling objectives.
+Maintenance of data change history throughout data cleansing activities.
+Policies, processes, and procedures to ensure that data cleansing activities are applied at the point of origination in accordance with published rules.
+Data cleansing rules that are applied consistently across the organization.
+Management of data cleansing requirements for data providers in accordance with standardized processes.
+A standard set of practices and rules that staff follow for performing data integration activities.
+Quality checks that are defined as part of the organizational integration standard and performed as part of data integration processes.
+Development and deployment of integration interfaces specified in accordance with architectural standards supporting re-use.
+Interface and integration performance metrics collected and analyzed to identify nonconformance with standards and criteria.
+Documentation and management of changes to data sources and destinations through the data governance process.
+Statistical analysis of integration metrics that guides decisions on changes to interfaces and integrations.
+Performance models for data integration that are continually reviewed and used as input for enhancements.
+Strong data quality processes during the data preparation phase.
+A strong process that independently verifies the accuracy of the data.
+Tools to download, fuse, and analyze data from archives and prepare data for analysis.
+Full security of all sensitive information/PII from collection to data product.
+Privacy filters and other safeguards applied at the time of collection.
+Start Dimension
+Manage
+Start Subdimension
+Backups
+Backups frequently performed and verified.
+Backup data stored at multiple offsite locations or by a reputable cloud service provider.
+The ability to recover data from backup storage very quickly after a disruption.
+A disaster recovery plan that is frequently reviewed and updated.
+Strong use of data preservation and retirement criteria including use, impact, value, and uniqueness.
+Strong use of data retention schedules, data disposition schedules, and end-of-life special considerations.
+Start Subdimension
+Inventory
+Detailed and frequently updated documentation of data products and processes available in an online, web-based format.
+Automated processes that regularly update web documentation with information extracted from live data sets.
+Data governance that monitors the standard organizationwide process used to develop data sourcing requirements.
+Metrics for the data sourcing management process that are established, maintained, and used.
+Documentation of critical data elements for which the platform is an authoritative source, trusted source, or system of record.
+A prescribed data warehouse repository that provides access to historical data for meeting analytics needs supporting business processes.
+Ability to recreate data context at any specific point in time.
+A strong inventory of critical data assets that is easy to access.
+A strong data inventory that is up to date, accurate, reflects all datasets throughout the operating administration, and inventories datasets at levels that are discoverable in the operating administration.
+Strong data sharing and archival processes and procedures.
+Start Subdimension
+Metadata
+All data sets enriched with a uniform set of identifying metadata.
+A metadata catalog maintained for all applicable data.
+Metadata practices that are regularly reviewed and updated following a documented process.
+All metadata for all data sets, along with associated documentation, made available wherever appropriate.
+Metadata feedback from data users openly solicited and regularly reviewed.
+All data sets augmented with the same well-documented metadata fields wherever possible.
+All metadata records include labels describing their sensitivity.
+Strong metadata management.
+Integration of the business glossary into the organization’s metadata repository with appropriate access permissions.
+A metadata management strategy that is established, promulgated, and maintained by data governance with input from relevant stakeholders.
+A metadata repository populated with additional categories and classifications of metadata according to a phased implementation plan, and linked to architecture layers.
+A data management function that centralizes metadata management efforts and is overseen by data governance.
+Data governance that approves metadata additions and changes.
+Measures and metrics used to evaluate the accuracy and adoption of metadata.
+Validation of metadata, and any changes to metadata, against the existing architecture.
+Metadata types and data definitions that support consistent import, subscription, and consumption practices.
+Metadata repository extensions that include exchange data representation standards used by the organization.
+New metadata management activities that are guided by metadata metrics and historical information about metadata.
+Evaluation of planned data changes for impact on the metadata repository; and metadata capture, change, and continuous improvement of refinement processes.
+Easy access to the intended use of critical data assets.
+Easy access to data lineage and provenance.
+Start Subdimension
+Organization
+All folders and files follow a documented naming convention.
+All data sets organized using a single planned folder structure.
+All data sets conform to a single, documented classification taxonomy.
+All data stored in a fully functional data lake architecture.
+All systems referencing the same data connect to a common data source for that data.
+Reference data that exist in one location as a single source of truth for all users.
+Master data values stored and managed in one accessible location.
+Source data that are never deleted or modified.
+Maintenance of the history and origin of all data files.
+Source data flagged and scored but never modified or deleted when data quality concerns arise.
+Strong data archival processes and procedures.
+An approved business glossary in the development of shared repositories, data transfer standards (e.g., XML), ontologies, semantic models, and similar initiatives involving corporate data.
+Organization-wide data governance that complies with the business glossary process.
+Impact assessments conducted, and governance approval obtained, prior to implementing changes to business terms.
+Metrics captured and used to evaluate the organization’s progress toward a comprehensive business glossary.
+Compliance monitoring processes that verify correct use of business glossary terms, highlight exceptions, and ensure they are addressed.
+Statistical and other quantitative techniques that are used to manage the process and develop reporting and projections on business glossary integration for senior management.
+A business glossary that uses standard industry business terms and definitions as appropriate.
+A business glossary that is enhanced to contain associated business rules and ontology structures, and is consistent throughout the organization.
+Documentation, planning, and justification of data set duplication across systems.
+All data stored as long as possible to support current/future analyses, even if those analyses are not actively in use today.
+Start Subdimension
+Quality monitoring
+Frequent usability assessment of all data.
+Active automated and manual monitoring and ranking of data quality.
+Fully automated data crawling continuously performed, generating timely and detailed alerts on data quality trends.
+A continuous process with standardized criteria for assessing data quality that is refined and improved regularly.
+Strong data quality standards and auditing.
+Strong data validation, data quality, and auditing capacity.
+Strong data quality metrics that are easy to access.
+Strong data quality and issue tracking processes and procedures.
+A data quality strategy that is followed across the organization and is accompanied by corresponding policies, processes, and guidelines.
+Defined roles and responsibilities for governance, implementation, and management of data quality practices.
+A defined process for defining benefits and costs for data quality initiatives that is employed to guide data quality strategy implementation.
+Data quality projects, such as data profiling, data assessments, data cleansing, and risk assessments that align with the business needs identified in the data quality strategy and the costbenefit analysis.
+Data quality metrics employed to analyze proposed changes to the data quality strategy.
+Systematic collection of stakeholder reports of data quality issues. Their expectations for improving data quality are included in the data quality strategy, and are measured and monitored.
+Data quality program milestones and metrics that are regularly reviewed by executives, and continuous improvements are implemented.
+Sharing of best practices and successful approaches to improving data quality with industry peers.
+Data profiling methodologies, processes, practices, tools, and results templates that have been defined and standardized.
+Performance of all techniques identified to meet the data profiling objectives.
+Performance of data profiling processes that is measured and used to manage activities across the organization.
+Real-time or near-real-time automated data profiling reports that are created for all critical data feeds and repositories.
+Use of statistical and other quantitative techniques to analyze historical data for input to business process and data quality improvements.
+A strong process to identify and correct data deficiencies that has a strong history of helping to correct the data.
+Continuous assessment of the extent to which datasets adhere to FAIR (findable, accessible, interoperable, reusable) principles.
+Start Dimension
+Use
+Start Subdimension
+Efficiency
+Easy and rapid procurement of data management/analysis tools for analysts.
+Full ability to access, use, and analyze data.
+Data available to whoever may have a potential use for the data, with the exception of sensitive data.
+Open data easily reachable via APIs and/or hosted analytics platforms.
+Fluid and convenient authorization structures that do not hinder authorized use of the data.
+Use of metrics to expand approved shared data reuse and eliminate process redundancy.
+All authorized users able to access data directly where stored and analyze at their own cost.
+All relevant data products shared with authorized users whose usage is monitored and who may bear some of the costs.
+The ability to easily grant new users access when warranted.
+The ability to perform all analysis without copying or moving data.
+All analysis results written to the same location as the data.
+Efficient sharing of data governance artifacts in a common repository.
+Ownership of third-party data (in most cases) and the ability to fully use that data with few restrictions.
+Start Subdimension
+Monitoring
+BI products and processes regularly reviewed so that the most successful ones can be shared and emulated.
+Detailed documentation sufficient for both users and reviewers. Reviewers ensure analyses meet requirements.
+Analysis tool selection that reflects agency staff’s direct experience using a wide variety of analysis tools.
+An advanced analytics projects portfolio including a robust pipeline of opportunities, no overlap in projects, and efficiencies to ensure economies of scale, all of which are regularly reviewed and refined as needed.
+Continuous project review occurring throughout the process, with ongoing monitoring of success metrics to enable improvement.
+Advanced analytics project validation that is part of the formal advanced analytics project lifecycle.
+Continuous review of the data analytics project validation process, updating of processes, and incorporation of results back into the project lifecycle.
+Continuous review of data analytics tools including processes for decommissioning tools.
+All relevant data products shared with authorized users whose usage is monitored and who may bear some of the costs.
+Frequent reviews of data access to ensure that data are as accessible as possible while securing critical information.
+Analytic reports that are dynamic, access is granted to specified distribution groups, information is customized to meet the audience, and there is a continuous review focused on improving efficiency and effectiveness in the process.
+Strong monitoring of dataset use, access methods, and impact.
+Strong peer review of datasets and metadata.
+Start Subdimension
+Privacy and security
+Analytical processes that filter/obfuscate records according to access and needs.
+All relevant data stakeholder groups handled with their own customized privacy protocols.
+Authorization processes that are up to date and fully prevent all unauthorized use.
+Frequent reviews of data access to ensure that data are as accessible as possible while securing critical information.
+Publication of strong data access policies.
+Strong governance policies in place that enable the sharing of data across functions/departments.
+Strong ability to perform de-identification and anonymization of data.
+Robust levels of protection (constraints and restrictions on data use and sharing). 
+Start Subdimension
+Methods and metrics
+Streaming data analyses that provide excellent value.
+Active use of relevant big data analytical techniques.
+Users able to easily filter data based on data quality rankings at a high level of granularity.
+Robust analysis capabilities that include data cleaning, data fusion, data mining, business intelligence, AI, and ML.
+Analyses that explicitly fuse and evaluate multi-source data and emerging data sources via cutting-edge automated methods.
+Performance measure selection that reflects integrated process to support decisionmaking at different levels of the agency.
+Robust use of sensitivity analysis and statistical distributions.
+Analytic techniques available to support the broad spectrum of analytics needs.
+Additional techniques continuously considered to support the organization’s advanced analytics capability over a multi year time frame.
+Data analysis methods that include prescriptive analytics, use ML to develop and train predictive analytic models, and are consistently reviewed for additional capability.
+Analytics services available to support prescriptive analytics.
+User interaction tools that are able to support all staff with minimal training required.
+Strong service-level agreements (SLAs) and data exchange/interface standards and oversight.
+Strong data sharing processes and procedures.
+Start Subdimension
+Tools and visualizations
+Many data analysis dashboards and supporting tools.
+Frequent referencing of a variety of relevant and useful data visualizations.
+The ability to use any number of tools to analyze the data and with few restrictions.
+All current needs satisfactorily met by a suite of BI products.
+The ability for data users to develop new BI products and visualizations with minimal administrative red tape or oversight.
+Access to a wide variety of analysis tools (from a wide variety of developers and vendors), which can be used situationally.
+Robust use of advanced visualizations.
+Visualization techniques that are comprehensive (technologically and visually) and provides guidance on their use.
+Continuous consideration of additional visualization techniques to support the organization’s advanced analytics capability over a multi year time frame.
+Customized reports that are dynamically created (using the integrated tools) for each advanced analytics artifact, and visualization processes and tool sets are continuously reviewed and refined.
+Stakeholders able to choose their own BI tools without undue technical or administrative limitations.
+Start Dimension
+Policy
+Start Subdimension
+Federal policy
+A designated CIO that reports directly to the Agency head, and has all authority required by FITARA, including oversight of IT planning and purchases.
+Compliance with transparency and risk management requirements for IT investments, including accurately identifying major IT investments by actual risk, utilizing incremental development, and treating IT investments as major capital projects.
+Reviews of its IT portfolio with PortfolioStat to achieve savings, reduce waste and duplication, and increase efficiency and effectiveness.
+Consolidated data centers.
+Implementation and maintenance of security measures commensurate with risk and magnitude relating to agency data.
+Use of UpToDate infosec policies as outlined in FISMA and related guidance (Executive Order 14028, Improving the Nation's Cybersecurity, annual memoranda from OMB [most recently M-23-03] and CISA, latest guidance from NIST).
+Reporting of infosec policy and procedure effectiveness to Director of OMB, the Secretary of Homeland Security, the Comptroller General, and to Congressional Committees.
+Reporting of major breaches in information security to the US Computer Emergency Readiness Team (US-CERT), to Congress, and, as appropriate, to law enforcement agencies and relevant Offices of Inspector General and General Counsel.
+Financial data that adheres to the DATA Act Information Model Schema (DAIMS).
+Full reporting of financial data to the US Treasury Dept.
+A designated Chief Data Officer.
+Publication of public government data assets in a standardized machine-readable format.
+Development and maintenance of a comprehensive data inventory.
+A process to provide and update an inventory of the agency’s data assets in line with the Director of OMB’s requirements including asset metadata as described in PUBLIC LAW 115–435—132 STAT. 5529 (2019) and on DATA.gov.
+A designated evaluation officer and a statistics expert to 1) develop and implement an "agency evidence-building plan", 2) establish agency rules, 3) assess evidence-based policy evaluations, 4) assess capacity to support further evidence-based rulemaking.
+Publication of an annual plan online of data intended for collection, use, or acquisition for the coming year.
+Publication of an annual plan including data and methods to be used to facilitate evidence-based policymaking.
+Treatment of digital records that is at least as favorable as its treatment of physical records.
+Options to digitally conduct transactions, signatures, documentation, and other actions.
+Accurate assessment of information collection burdens by including the burden from beginning to end, engaging with internal and external stakeholders, considering psychological costs, and considering the collection burden of State, Territorial, Tribal and Local Agencies in addition to those of the Federal government.
+A goal of minimizing paperwork and data collection burdens by simplifying collection and submission requirements, reducing learning costs to the public of unfamiliar programs, and reducing barriers that disproportionately affect vulnerable populations.
+Use of OIRA's plain-language Paperwork Reduction Act (PRA) tool on Digital.gov for PRA requirements and procedures.
+Use of leading design practices to facilitate paperwork including pre-populating forms, transitioning from opt-in to opt-out, automatic-enrollment, cross-enrollment, A/B testing, and other best practices.
+A designated CIO with appropriate responsibilities.
+Adherence to the capital planning and investment control (CPIC) process for IT planning and budgets, including OMB Circular A-11. section 55, which is updated annually.
+Prevention of use of confidential information for non-authorized purposes.
+Maintenance of strict controls over confidential information collected for statistical purposes.
+Resolution of all FOIA requests in an appropriate, timely manner.
+Proactive posting of frequently requested records where possible.
+Publication of guidelines to ensure the quality of any data disseminated to the public.
+Adherence to their own published policies concerning data quality.
+A published policy to correct data upon request and publication of records for such actions.
+All owned or operated Internet of Things (IoT) devices compliant with NIST standards outlined in NIST’s IoT guidance for Federal agencies, in NISTIR 8228 and in their SP-800-213 Series.
+Relevant personnel with developed awareness of IoT device risks and challenges, and who monitor new guidance on their mitigation.
+Adjusted organizational policies and processes to address cybersecurity and privacy risk mitigation throughout the IoT device lifecycle.
+Implemented and updated mitigation practices for the organization’s IoT devices.
+Full adherence to federal privacy and security standards.
+A process to allow individuals to access and amend their data.
+Publication of notices and updates of each system of records covered by the Privacy Act in the Federal Register.
+Compliance of all geospatial data with standards established by the Federal Geographic Data Committee (FGDC).
+Sharing of all geospatial data with a Federal geospatial data clearinghouse.
+Provision of biannual reports to OMB and GSA on the implementation of Section 508, using reporting guidance from Section508.gov.
+Compliance with, or exceeding of, the most recent Section 508 requirements on Section508.gov or the CIO Council's Executive Guide to IT Accessibility.
+The ability to ensure that new and redesigned websites are fully functional on mobile devices.
+The ability to ensure that new and redesigned websites are accessible to individuals with disabilities.
+The ability to ensure that new and redesigned websites are consistent in appearance, contain a search function, and designed around data-driven user needs.
+Use of web-based forms, apps, or digital services to ensure user needs are addressed.
+Start Subdimension
+Governance policy
+A documented data management plan that it follows and frequently updates.
+A disaster recovery plan that is frequently reviewed and updated.
+Application of open data policies wherever possible.
+Formal documentation and processes for data management and data-driven analysis.
+Formal processes for archiving, sharing, updating, and maintaining data.
+Robust and integrated data management and data governance policies and requirements.
+An enterprise-wide data governance model that is continuously adjusted based on strategy, regulatory requirements, and performance metrics.
+A data requirements lifecycle that is reviewed regularly and refined as needed to plan for data requirements over a multi year timeframe.
+Strong data standardization policy.
+Strong issue identification and management capacity.
+Strong data management and stewardship processes and procedures.
+Strong data security and privacy policy and oversight.
+Strong data management standards, policies, and processes that are communicated across the organization and adjusted based on feedback.
+Agreements in place that provide explicit expectation for the use of shared staff resources with responsibilities for data management.
+Strong procedures to identify and apply needed changes to enhance or redesign the data management function.
+Defined and implemented governance of the funding process.
+Governance roles, responsibilities, and accountabilities established for data subject area by priority, as stated in the business or data strategy.
+Data governance policies that follow defined policies, processes, and standards.
+An established review process that evaluates and improves data governance.
+An established organization-wide data governance structure and rollout plan has executive sponsorship.
+Executive level organization-wide data governance that is operational for the organization’s high-priority subject areas.
+Data governance that includes representatives from all business units, which are suppliers or consumers of high-priority data subject areas.
+An established evaluation process for refining data governance to align with changing business priorities and to expand as needed to encompass new functions and domains.
+Data governance activities and results continuously analyzed against objectives and reported to executive management.
+Continuous application of metrics, statistical techniques, and other quantitative techniques to determine if data governance efforts are changing organizational behaviors appropriately.
+Adjustments to data governance activities and structure based on analysis results.
+Evaluation of external governance structures and industry case studies for best practices and lessons learned, providing ideas for improvements.
+Data governance processes that are continually refined and improved.
+A data management function that centralizes metadata management efforts and is overseen by data governance.
+Data governance that approves metadata additions and changes.
+A data quality strategy that is followed across the organization and is accompanied by corresponding policies, processes, and guidelines.
+Data quality metrics employed to analyze proposed changes to the data quality strategy.
+Adjustment of policies, processes, and guidelines, which are defined to support the data quality strategy, based on performance metrics analysis results.
+An established and maintained strategy used for risk management.
+Identification, analysis, and documentation of risks by following the organization’s standard process.
+Evaluation and categorization of each identified risk using defined risk categories and parameters, to determine its relative priority.
+A process to develop risk mitigation plans in accordance with the risk management strategy.
+Continual monitoring of the status of each risk plus implementation of the risk mitigation plan as appropriate.
+Use of statistical and other quantitative techniques to analyze and determine the quantitative risk to meeting the goals.
+Policies, processes, and procedures to ensure that data cleansing activities are applied at the point of origination in accordance with published rules.
+Change management processes addressing the entire data lifecycle that are established and maintained.
+Management of changes to shared data sets (or target data sets for a specific business purpose) by data governance structures with relevant stakeholder engagement.
+Data governance that monitors the standard organizationwide process used to develop data sourcing requirements.
+Data governance that ensures architectural standards are aligned with business needs and aligned with the organization’s senior architecture governance body.
+Documentation and management of changes to data sources and destinations through the data governance process.
+Policy that is defined and approved by data governance and implemented at the organizational level requiring logging of data changes, and retention of the logs.
+An audit program that ensures compliance with organizational data logging, archive, and retention policies.
+Use of metrics results and stakeholder feedback to improve data retention and archiving policies.
+Strong monitoring of security policies.
+Strong policies to ensure all data activities are aligned to the Departmental Data Strategy and the Federal Data Strategy.

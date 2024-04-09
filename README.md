@@ -26,7 +26,7 @@ The Intelligent Transportation Systems Joint Program Office (ITS-JPO) Data Acces
 
 ## Getting Started
 
-*Users of the Data CMM tool can simply download the Release folder as a ZIP file (in GitHub, browse to Data CMM > bin > Release). Once downloaded, right-click on the ZIP file and select Properties > Unblock. Once the ZIP file is unblocked, unzip the ZIP file. Once unzipped, read the guidelines document (e.g., Data CMM Guidelines Apr 2024.docx) or launch the program (Data CMM.exe). Tool developers can open the solution file (Data CMM.sln) in Visual Studio 2019.*
+Users of the Data CMM tool can simply download the Release folder as a ZIP file (in GitHub, browse to Data CMM > bin > Release). Once downloaded, right-click on the ZIP file and select Properties > Unblock. Once the ZIP file is unblocked, unzip the ZIP file. Once unzipped, read the guidelines document (e.g., Data CMM Guidelines Apr 2024.docx) or launch the program (Data CMM.exe). Tool developers can open the solution file (Data CMM.sln) in Visual Studio 2019.
 
 ### Prerequisites
 

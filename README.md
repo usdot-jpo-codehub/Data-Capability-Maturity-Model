@@ -26,7 +26,7 @@ The Intelligent Transportation Systems Joint Program Office (ITS-JPO) Data Acces
 
 ## Getting Started
 
-Instructions for tool users: Click into the Releases menu on the right-hand side of the screen in GitHub. Download the tool ZIP file (Data.CMM.tool.zip). Once downloaded, right-click on the ZIP file and select Properties > Unblock. Once the ZIP file is unblocked, unzip the files by right-clicking on the ZIP file and selecting Extract All. Once the files are unzipped, either read the guidelines document (e.g., Data CMM Guidelines Apr 2024.docx) or launch the tool (Data CMM.exe).
+Instructions for tool users: Click into the Releases menu on the right-hand side of the screen in GitHub. Download the tool ZIP file (Data.CMM.tool.zip). Once downloaded, right-click on the ZIP file and select Properties > Unblock. Once the ZIP file is unblocked, unzip the files by right-clicking on the ZIP file and selecting Extract All. Once the files are unzipped, either read the guidelines document (e.g., Data CMM Guidelines Apr 2024.docx) or launch the tool (Data CMM.exe). Since the tool is unsigned it might not be allowed to run on some computers depending on their antivirus or organization’s rules. Users who encounter this issue can download the source code (see "Instructions for tool developers" below) and compile a signed version of the tool in Visual Studio.
 
 Instructions for tool developers: Click into the Releases menu on the right-hand side of the screen in GitHub. Download the source code ZIP file (Data-Capability-Maturity-Model-DataCMM.zip). Once downloaded, right-click on the ZIP file and select Properties > Unblock. Once the ZIP file is unblocked, unzip the files by right-clicking on the ZIP file and selecting Extract All. Once the files are unzipped, open the solution file (Data CMM.sln) in Visual Studio 2019 or later.
 
@@ -58,6 +58,3 @@ Agency: DOT
 Short Description: Source code of the data management capability maturity model
 Status: Release
 Tags: Data management, capability maturity model
-Labor hours: 0
-Contact Name: ??
-Contact Phone: ??
